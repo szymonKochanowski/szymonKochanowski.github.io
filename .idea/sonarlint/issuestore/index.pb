@@ -7,3 +7,7 @@ X
 (assets/vendor/bootstrap-icons/index.html,e\e\ee4b47a69085ec2a829de7e7c8c419dc4786c662
 F
 portfolio-details.html,9\1\918b23ad75b65c88c48c2bcee574ce4ec5491eb8
+F
+assets/scss/Readme.txt,6\1\61a40981a9ce4e17650a9af97e98abf53e9d4295
+A
+assets/js/main.js,2\7\27535fc9a68fbb5975536329c4632c8cca0d3e2a
