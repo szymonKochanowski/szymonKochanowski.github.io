@@ -11,3 +11,5 @@ F
 assets/scss/Readme.txt,6\1\61a40981a9ce4e17650a9af97e98abf53e9d4295
 A
 assets/js/main.js,2\7\27535fc9a68fbb5975536329c4632c8cca0d3e2a
+w
+G.idea/sonarlint/issuestore/6/1/61a40981a9ce4e17650a9af97e98abf53e9d4295,c\4\c463aeb1545a1c48e58d8a6fa69066a262b903c8
