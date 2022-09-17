@@ -90,6 +90,7 @@ a:hover {
   background-attachment: fixed;
   background-size: cover;
   background-position: center center;
+  background-color: #2C2220;
 }
 
 @media (max-width: 1024px) {
@@ -935,6 +936,7 @@ a:hover {
 
 .w-title {
   font-size: 1.2rem;
+  color: #d5d5d5;
 }
 
 *--------------------------------------------------------------
