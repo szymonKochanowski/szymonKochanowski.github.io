@@ -128,11 +128,6 @@ a:hover {
   vertical-align: middle;
 }
 
-/*--/ Main /--*/
-.main {
-    background-color: black;
-}
-
 /*--/ Sections /--*/
 .sect-4 {
   padding: 4rem 0;
@@ -185,7 +180,7 @@ a:hover {
 .title-left {
   font-size: 2rem;
   position: relative;
-  color: white;
+  color: #ffffff;
 }
 
 .title-left:before {
@@ -195,6 +190,7 @@ a:hover {
   background-color: #0078ff;
   width: 100px;
   bottom: -12px;
+  color: #ffffff;
 }
 
 /*------/ Box /------*/
@@ -842,9 +838,6 @@ a:hover {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
-#about .container {
-    color: #d5d5d5;
-}
 
 .about-mf .box-shadow-full {
     background-color: #191919;
