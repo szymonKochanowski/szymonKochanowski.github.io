@@ -1124,3 +1124,7 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+.text-center {
+    text-align: center;
+}
